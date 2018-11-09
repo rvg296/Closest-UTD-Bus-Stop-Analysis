@@ -1,1 +1,3 @@
 # Closest-UTD-Bus-Stop-Analysis
+
+This project is based on the idea to address the problem faced by the students who use the Bus (Comet Cruiser) facility to commute to the school. The main goal was to analyze how the student will be able to go to a different bustop, if one stop is crowded. Peak hour congestion analysis was performed. "Near Tool" scripting along with Theissen Polygon Analysis was performed using ArcObjects (Vb.net) in ArcGIS Pro. Once we select our living side (East or West) and the apartments where we live, it will pop up the nearest bustop and highlight that in the Arc Map. The uniqueness of this tool is we can make a custom-distance search which will allow us to play with various distances to the nearest stop .
